@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 14, 2014, 12:14:51 AM
+    Author     : ANIRUDH
+*/
+body {
+    height: auto;
+    width: auto;
+    margin: 0;
+	margin: 0 auto;
+background:url(dice.jpg);
+background-color: #ffffff;
+    background-repeat:repeat;
+    background-size: 1080px;
+    background-origin: content-box;
+}
+form{
+    text-align: center;
+}
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+div {
+     margin-top: 250px;
+    background-color:white;   
+}
+.textarea{
+    width: 100px;
+    height: 25px;
+}

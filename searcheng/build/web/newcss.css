@@ -1,0 +1,108 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 10, 2014, 12:57:08 PM
+    Author     : ANIRUDH
+*/
+
+body
+{
+	margin: 0;
+	margin: 0 auto;
+	background: #efefef;
+}
+#header
+{
+	vertical-align: top;
+	padding: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: lighter;
+	color: #00008B;
+}
+.title
+{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+	color: #457AD3;
+}
+#main
+{
+	width: auto;
+	height: auto;
+	padding: 0px;
+	font-family: Georgia, Verdana, Arial, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #002F4D;
+        
+	text-align: left;
+}
+h1, h2
+{
+	font-family: Georgia, Verdana, Arial, sans-serif;
+	color: #191970;
+	font-weight: lighter;
+	border-bottom: 1px solid #2F4F4F;
+        
+	text-align: left;
+}
+h3, h4
+{
+	font-family: Georgia, Verdana, Arial, sans-serif;
+	color:  #003280;
+	font-weight: lighter;
+        
+	text-align: left;
+	/*border-bottom: 1px solid #003280;*/
+}
+h5
+{
+	font-family: Georgia, Verdana, Arial, sans-serif;
+	color: darkorange;
+	font-weight: normal;
+        
+	text-align: left;
+	/*border-bottom: 1px solid #003280;*/
+}
+#corporate
+{
+	padding: 0px;
+	background-color: #fdfdfd;
+	border-top: 5px solid #efefef;
+	border-bottom: 1px solid #efefef;
+	text-align: left;
+}
+
+a:link, a:visited
+{
+	color: #00008B;
+	border-bottom: 1px solid #efefef;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+a:hover
+{
+	color: #002F4D;
+	text-decoration: #D20005;
+        
+}
+
+
+
+hr
+{
+	border:0;
+	border-bottom: 1px solid #efefef;
+	height: 1px;
+}
+li
+{
+	list-style-type: none;
+	line-height: 160%;
+}
